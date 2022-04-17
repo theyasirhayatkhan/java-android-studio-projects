@@ -1,5 +1,3 @@
 # Android Projects built using Java
 
-Adding my android studio projects here built using Java.
-
-# Index
+Adding my Android Studio Projects here built using Java.
